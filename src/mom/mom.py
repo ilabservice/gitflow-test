@@ -1,1 +1,1 @@
-print "mom is pretty"
+print "mom is drop dead gorgeous"
